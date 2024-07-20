@@ -1,4 +1,5 @@
 Music Player App
+
 This Music Player App is a simple command-line music player application that allows users to create playlists, add songs,
 and control playback with features like next, previous, and repeat mode.
 
